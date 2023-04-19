@@ -20,5 +20,6 @@ namespace LaunchElectionDay.UnitTests
             diana.VoteFor();
             Assert.Equal(3, diana.Votes);
         }
+        public void 
     }
 }
