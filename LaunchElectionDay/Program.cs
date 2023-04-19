@@ -12,4 +12,6 @@ diana.VoteFor();
 diana.VoteFor();
 
 Console.WriteLine(diana.Votes);
-Console.ReadLine();
+var Race1 = new Race("Prelims");
+Race1.RegisterCandidate(diana);
+Console.WriteLine(Race1.Candidates.Last().Name);

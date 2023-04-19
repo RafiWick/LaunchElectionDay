@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rafiw\\.nuget\\packages\\": {}
+    "C:\\Users\\alexb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafiw\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+      "projectUniqueName": "C:\\Users\\alexb\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
       "projectName": "LaunchElectionDay",
-      "projectPath": "C:\\Users\\rafiw\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
-      "packagesPath": "C:\\Users\\rafiw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafiw\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
+      "projectPath": "C:\\Users\\alexb\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\LaunchElectionDay.csproj",
+      "packagesPath": "C:\\Users\\alexb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexb\\Source\\Repos\\LaunchElectionDay\\LaunchElectionDay\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rafiw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\alexb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
