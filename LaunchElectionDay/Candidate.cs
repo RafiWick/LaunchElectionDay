@@ -1,4 +1,5 @@
-﻿namespace LaunchElectionDay
+﻿using System.Collections.Generic;
+namespace LaunchElectionDay
 {
     public class Candidate
     {
@@ -15,6 +16,10 @@
         public void VoteFor()
         {
             Votes++;
+        }
+        public KeyValuePair<string, int> GetVoteCount()
+        {
+            return new KeyValuePair<string, int>(Name,Votes);
         }
     }
 }

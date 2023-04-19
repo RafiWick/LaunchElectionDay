@@ -20,5 +20,18 @@ namespace LaunchElectionDay
         {
             Candidates.Add(candidate);
         }
+        public List<Candidate> GetCandidates()
+        {
+            return Candidates;
+        }
+        public Dictionary<string, int> GetVoteCount()
+        {
+            var voteCount = new Dictionary<string, int>();
+            foreach (Candidate candidate in Candidates)
+            {
+                voteCount.Add(candidate.GetVoteCount().Key, candidate.GetVoteCount().Value);
+            }
+            return voteCount;
+        }
     }
 }
